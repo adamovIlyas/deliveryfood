@@ -213,7 +213,7 @@ body {
   margin-right: 21px;
 }
 
-@media (max-width: 1366px) {
+@media(max-width: 1366px) {
   .container {
     max-width: 960px;
   }
@@ -228,7 +228,7 @@ body {
     font-size: 14px;
   }
 }
-@media (max-width: 992px) {
+@media(max-width: 992px) {
   .container {
     max-width: 750px;
   } 
@@ -353,4 +353,4 @@ body {
   .footer-link:not(:last-child) {
     margin-right: 0;
   }
-}
+} 
